@@ -13,13 +13,15 @@ Also check for possible null values and correlations between variables.
 
 ## Use visuals methods to answer 3 questions:
 
-1. most preferred player foot 
+1. most preferred player foot:
+
 Most players are right footed - unsuprising, since right limbs is the preferred in humans by nature.
 
-2. Comparing wage and age of player
+2. Comparing wage and age of player:
+
 We see best paid players are between 19-24 years of age. However a suprising spike between 27-28, though very small. 
 
-3. Highest paid by country 
+3. Highest paid by country:
 
 Amongst most highly paid players come from England, Germany, Spain, France and Brasil.
 
