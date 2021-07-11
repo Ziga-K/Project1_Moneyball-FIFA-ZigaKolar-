@@ -1,8 +1,8 @@
 # Project one: FIFA MoneyBall by Ziga Kolar
 
-## OBJECTIVES 
+#### OBJECTIVES 
 
-**Clean and explore dataset** 
+## Clean and explore dataset 
 
 For simplicty purposes the main statistics of this dataset will be used, so I have removed the rest part of data.
 
@@ -11,7 +11,7 @@ several column have been converted to numerical types and non numberical charath
 
 Also check for possible null values and correlations between variables.
 
-**Use visuals methods to answer 3 questions**:
+## Use visuals methods to answer 3 questions:
 
 1. most preferred player foot 
 Most players are right footed - unsuprising, since right limbs is the preferred in humans by nature.
@@ -23,7 +23,7 @@ We see best paid players are between 19-24 years of age. However a suprising spi
 
 Amongst most highly paid players come from England, Germany, Spain, France and Brasil.
 
-**Use linear regression model to try predict player value**
+## se linear regression model to try predict player value
 
 Aim to normalize the dataset with a boxcox transformation approach,
 make a dataset with the desired variables, split it to 80/20 where 20 is the test set and finally fit it onto the linear regression model.
