@@ -23,7 +23,7 @@ We see best paid players are between 19-24 years of age. However a suprising spi
 
 Amongst most highly paid players come from England, Germany, Spain, France and Brasil.
 
-## se linear regression model to try predict player value
+## Use linear regression model to try predict player value
 
 Aim to normalize the dataset with a boxcox transformation approach,
 make a dataset with the desired variables, split it to 80/20 where 20 is the test set and finally fit it onto the linear regression model.
